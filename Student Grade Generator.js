@@ -14,7 +14,7 @@ function studentGrade() {
         return "D" 
     }else{
             return"E"
-        }
-            
-        
+        } 
     }
+
+    studentGrade()
