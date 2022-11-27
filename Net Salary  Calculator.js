@@ -1,3 +1,6 @@
+let grossPay=parseInt(prompt("Enter your gross pay")
+
+ }
 
 
 
@@ -7,9 +10,6 @@
 
 
 
-
-
-net salary=basic salary - deductions
 
 
 
