@@ -11,4 +11,10 @@ function studentGrade() {
     }else if(result>=49) {
         return "C"
     }else if (result>=40) {
-        return "D"
+        return "D" 
+    }else{
+            return"E"
+        }
+            
+        
+    }
