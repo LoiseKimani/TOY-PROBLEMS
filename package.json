@@ -1,0 +1,22 @@
+{
+  "name": "prompt-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Net Salary  Calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoiseKimani/TOY-PROBLEMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoiseKimani/TOY-PROBLEMS/issues"
+  },
+  "homepage": "https://github.com/LoiseKimani/TOY-PROBLEMS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
