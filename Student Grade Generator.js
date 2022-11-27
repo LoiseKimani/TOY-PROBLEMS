@@ -8,3 +8,5 @@ function studentGrade() {
        return "A"
     }else if (result>=60 ) {
         return "B"
+    }else if(result>=49) {
+        return "C"
