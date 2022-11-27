@@ -2,16 +2,25 @@
 
 function gotSpeed() {
     
-  if(speed<70)
-    return("OK") 
+ let gotSpeed = parseInt(gotSpeed,90)
+
+      if (gotSpeed<70
+        return "OK") 
+}else
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
-function overSpeed() {
-      gotSpeed()
-}
-
-    
-        
-
-console.log(gotSpeed(45))
-
-//if(speed ==5 && speed+1)
