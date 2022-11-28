@@ -23,21 +23,7 @@
 <br>
 <br>
      Started by declaring grosspay using the let variable.Converted grosspay into integer from string using parseInt 
-     Started off by declaring gross pay using function.Made a lot of declarations like using let for paye,netSalary,extraTaxpay and others.Also wrote a few equations to calculate paye in various instances using different rates.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     Started off by declaring gross pay using function.Made a lot of declarations like using let for paye,netSalary,extraTaxpay and others.Also wrote a few equations to calculate paye in various instances using different rates based on price and tax rate according to ranges in paye.Next there is a list of gross pay ranges and if a certain range is met a certain nhif value is given.Some formulas are added to calculate various earnings like net salary which is later given after being calculated according to the above values.My code kept returning undefined on paye yet is already declared but the rest are alright.
 
 <br>
 <br>
