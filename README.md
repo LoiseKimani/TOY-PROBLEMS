@@ -10,6 +10,7 @@
 ##Speed detector
 
 <br>
+<br>
     This is used to show a response if a specific speed is reached.First started by declaring a function hereCar which deals with speed.<br>
     Next converted variable carSpeed from string to integer.<br>
     Defined constant demerit by the use of an equation.Added an if statement fo speed below 70 to read "OK".There was an else statement in which a number of demerits were show if the demerits were below 12.If demerits were 12 and above a statement of"License suspended was returned.I used console.log so as to run my code in the Visual studio output.
